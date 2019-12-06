@@ -6,7 +6,7 @@ export class Home extends Component {
   render () {
     return (
       <div> 
-        <input type="file"  capture="camera" />
+        <input type="file"  capture="camera" />  
        </div>
     );
   }
